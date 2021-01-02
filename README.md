@@ -1,1 +1,1 @@
-#JavaScriptでオセロを作る
+JavaScriptでオセロを作る
