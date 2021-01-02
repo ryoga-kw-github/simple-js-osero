@@ -1,1 +1,1 @@
-# simple-js-osero
+#JavaScriptでオセロを作る
