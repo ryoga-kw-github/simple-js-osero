@@ -3,8 +3,9 @@
     <head></head>
 
     <body>
-        <p>Hello,World</p>
         <script>
+            <h1>こんにちは世界</h1>
+            <p>Hello,World</p>
             alert('Hello,JavaScript');
         </script>
     </body>
