@@ -5,6 +5,7 @@
     <body>
         <h1>こんにちは世界</h1>
         <p>Hello,World</p>
+        <script type="text/javascript" src='main.js'></script>
 
         <!-- 
             ”オセロのルール”
@@ -113,7 +114,5 @@
                 </tr>
             </tbody>
         </table>
-
-        <script src='./index.js'></script>
     </body>
 </html>
