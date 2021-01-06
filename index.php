@@ -114,8 +114,6 @@
             </tbody>
         </table>
 
-        <script>
-            alert('Hello,JavaScript');
-        </script>
+        <script src='./index.js'></script>
     </body>
 </html>
