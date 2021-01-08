@@ -5,6 +5,7 @@
     <body>
         <h1>こんにちは世界</h1>
         <p>Hello,World</p>
+        <div id="test">このテキストが表示されたら失敗</div>
         <script type="text/javascript" src="main.js"></script>
 
         <!-- 
