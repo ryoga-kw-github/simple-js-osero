@@ -9,13 +9,13 @@ window.onload = function() {
     //getElementsByTagNameでHTMLのテーブル(tdタグ)をすべて取得してtableElementsに代入
 
     let order = true;
-    //まだ何のための変数なのかわかんない
+    //順番を判別したり、交代させたりするときに使う
     let othelloWhite = '○';
     //othelloWhiteに○(白の駒)を代入
     let othelloBlack = '●';
     //othelloBlackに●(黒の駒)を代入
     let othelloColor = othelloBlack;
-    //まだ何のための変数なのかわかんない
+    //othelloColorにothelloBlack(黒駒●)を代入する
 
     for (let $i=0; $i < $tableElements.length; $i++) {
     //テーブルのすべてのマスにclick判定をつける
@@ -32,7 +32,8 @@ window.onload = function() {
 
     function changeOrder() {
         //順番を交代させる関数
+        //othelloColorに
+        //--othelloBlack(黒駒●)が代入されていた場合、othelloWhite(白駒○)を代入して、
+        //--othelloWhite(白駒○)が代入されていた場合、othelloBlack(黒駒●)を代入する
     }
-
-
 };
