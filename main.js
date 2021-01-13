@@ -35,7 +35,7 @@ window.onload = function() {
     }
 
     function putOthello() {
-        
+        //indexで取得したマスを自分の駒に塗り替える
     }
 
     function changeOrder() {
