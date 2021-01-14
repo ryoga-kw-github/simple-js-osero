@@ -1,6 +1,6 @@
 window.onload = function() {
-    var test = '「テスト」';
-    alert('このアラートが表示されてたらwindow.onloadが動いてる'+test);
+    //var test = '「テスト」';
+    //alert('このアラートが表示されてたらwindow.onloadが動いてる'+test);
     //let innerHTMLtest = document.getElementById('test');
     //innerHTMLtest.innerHTML="innerHTMLの動作チェック！";
     
@@ -43,7 +43,7 @@ window.onload = function() {
         //順番を交代させる関数
 
         if (order) {
-            othelloColor = othelloWhte;
+            othelloColor = othelloWhite;
             order = false;
         } else {
             othelloColor = othelloBlack;
