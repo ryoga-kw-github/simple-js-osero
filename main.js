@@ -35,11 +35,21 @@ window.onload = function() {
     }
 
     function putOthello() {
-        //indexで取得したマスを自分の駒に塗り替える
+        $tableElements[index].innerHTML = othelloColor;
+        //$tableElements(テーブルのデータを入れた変数)のindex(クリックしたマスの位置)に、自分の色を上書きする
     }
 
     function changeOrder() {
         //順番を交代させる関数
+
+        if (order) {
+            othelloColor = othelloWhte;
+            order = false;
+        } else {
+            othelloColor = othelloBlack;
+            order = true;
+        }
+
         //othelloColorに
         //--othelloBlack(黒駒●)が代入されていた場合、othelloWhite(白駒○)を代入して、
         //--othelloWhite(白駒○)が代入されていた場合、othelloBlack(黒駒●)を代入する
