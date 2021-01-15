@@ -34,7 +34,7 @@ window.onload = function() {
         });
     }
 
-    function putOthello() {
+    function putOthello(index) {
         $tableElements[index].innerHTML = othelloColor;
         //$tableElements(テーブルのデータを入れた変数)のindex(クリックしたマスの位置)に、自分の色を上書きする
     }
@@ -54,4 +54,4 @@ window.onload = function() {
         //--othelloBlack(黒駒●)が代入されていた場合、othelloWhite(白駒○)を代入して、
         //--othelloWhite(白駒○)が代入されていた場合、othelloBlack(黒駒●)を代入する
     }
-};
+}
