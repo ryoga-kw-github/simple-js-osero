@@ -4,7 +4,6 @@ window.onload = function() {
     //let innerHTMLtest = document.getElementById('test');
     //innerHTMLtest.innerHTML="innerHTMLの動作チェック！";
     
-
     var $tableElements = document.getElementsByTagName('td');
     //getElementsByTagNameでHTMLのテーブル(tdタグ)をすべて取得してtableElementsに代入
 
