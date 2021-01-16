@@ -17,8 +17,8 @@
             }
 
             .table td {
-            width: 60px;
-            height: 60px;
+            width: 40px;
+            height: 40px;
             background-color: #ddd;
             text-align: center;
             font-size: 3.8vw;
