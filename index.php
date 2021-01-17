@@ -78,84 +78,84 @@
         <table class="table">
             <tbody>
                 <tr>
-                    <td>1-1</td>
-                    <td>1-2</td>
-                    <td>1-3</td>
-                    <td>1-4</td>
-                    <td>1-5</td>
-                    <td>1-6</td>
-                    <td>1-7</td>
-                    <td>1-8</td>
+                    <td>11</td>
+                    <td>12</td>
+                    <td>13</td>
+                    <td>14</td>
+                    <td>15</td>
+                    <td>16</td>
+                    <td>17</td>
+                    <td>18</td>
                 </tr>
                 <tr>
-                    <td>2-1</td>
-                    <td>2-2</td>
-                    <td>2-3</td>
-                    <td>2-4</td>
-                    <td>2-5</td>
-                    <td>2-6</td>
-                    <td>2-7</td>
-                    <td>2-8</td>
+                    <td>21</td>
+                    <td>22</td>
+                    <td>23</td>
+                    <td>24</td>
+                    <td>25</td>
+                    <td>26</td>
+                    <td>27</td>
+                    <td>28</td>
                 </tr>
                 <tr>
-                    <td>3-1</td>
-                    <td>3-2</td>
-                    <td>3-3</td>
-                    <td>3-4</td>
-                    <td>3-5</td>
-                    <td>3-6</td>
-                    <td>3-7</td>
-                    <td>3-8</td>
+                    <td>31</td>
+                    <td>32</td>
+                    <td>33</td>
+                    <td>34</td>
+                    <td>35</td>
+                    <td>36</td>
+                    <td>37</td>
+                    <td>38</td>
                 </tr>
                 <tr>
-                    <td>4-1</td>
-                    <td>4-2</td>
-                    <td>4-3</td>
+                    <td>41</td>
+                    <td>42</td>
+                    <td>43</td>
                     <td>○</td>
                     <td>●</td>
-                    <td>4-6</td>
-                    <td>4-7</td>
-                    <td>4-8</td>
+                    <td>46</td>
+                    <td>47</td>
+                    <td>48</td>
                 </tr>
                 <tr>
-                    <td>5-1</td>
-                    <td>5-2</td>
-                    <td>5-3</td>
+                    <td>51</td>
+                    <td>52</td>
+                    <td>53</td>
                     <td>●</td>
                     <td>○</td>
-                    <td>5-6</td>
-                    <td>5-7</td>
-                    <td>5-8</td>
+                    <td>56</td>
+                    <td>57</td>
+                    <td>58</td>
                 </tr>
                 <tr>
-                    <td>6-1</td>
-                    <td>6-2</td>
-                    <td>6-3</td>
-                    <td>6-4</td>
-                    <td>6-5</td>
-                    <td>6-6</td>
-                    <td>6-7</td>
-                    <td>6-8</td>
+                    <td>61</td>
+                    <td>62</td>
+                    <td>63</td>
+                    <td>64</td>
+                    <td>65</td>
+                    <td>66</td>
+                    <td>67</td>
+                    <td>68</td>
                 </tr>
                 <tr>
-                    <td>7-1</td>
-                    <td>7-2</td>
-                    <td>7-3</td>
-                    <td>7-4</td>
-                    <td>7-5</td>
-                    <td>7-6</td>
-                    <td>7-7</td>
-                    <td>7-8</td>
+                    <td>71</td>
+                    <td>72</td>
+                    <td>73</td>
+                    <td>74</td>
+                    <td>75</td>
+                    <td>76</td>
+                    <td>77</td>
+                    <td>78</td>
                 </tr>
                 <tr>
-                    <td>8-1</td>
-                    <td>8-2</td>
-                    <td>8-3</td>
-                    <td>8-4</td>
-                    <td>8-5</td>
-                    <td>8-6</td>
-                    <td>8-7</td>
-                    <td>8-8</td>
+                    <td>81</td>
+                    <td>82</td>
+                    <td>83</td>
+                    <td>84</td>
+                    <td>85</td>
+                    <td>86</td>
+                    <td>87</td>
+                    <td>88</td>
                 </tr>
             </tbody>
         </table>
