@@ -8,14 +8,6 @@
         <script type="text/javascript" src="main.js"></script>
         <style>
 
-            .table {
-            position:absolute;
-            top: 50%;
-            left: 50%;
-            margin-top: -257px;
-            margin-left: -257px;
-            }
-
             .table td {
             width: 40px;
             height: 40px;
