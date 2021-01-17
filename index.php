@@ -24,31 +24,6 @@
             font-size: 3.8vw;
             cursor: pointer;
             }
-
-            .list {
-            max-width: 750px;
-            margin: 0 auto;
-            list-style: none;
-            background-color: #fff;
-            padding: 0;
-            }
-
-            .list-item {
-            display: flex;
-            display: -webkit-flex;
-            -webkit-justify-content: flex-start;
-            justify-content: flex-start;
-            border-bottom: 2px solid #ddd;
-            }
-            .list-item > * {
-            width: 50px;
-            padding: 5px 10px;
-            text-align: center;
-            }
-            .list-item *:last-child {
-            -webkit-flex-grow: 1;
-            flex-grow: 1;
-            }
             
         </style>
 
