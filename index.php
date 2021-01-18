@@ -13,9 +13,11 @@
             height: 40px;
             background-color: #ddd;
             text-align: center;
-            font-size: 3.8vw;
+            font-size: 10px;
             cursor: pointer;
             }
+
+            
             
         </style>
 
