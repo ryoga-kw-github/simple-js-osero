@@ -6,19 +6,16 @@
         <h1>こんにちは世界</h1>
         <p>Hello,World</p>
         <script type="text/javascript" src="main.js"></script>
-        <style>
-
-            .table td {
-            width: 40px;
-            height: 40px;
-            background-color: #ddd;
-            text-align: center;
-            font-size: 10px;
-            cursor: pointer;
+        <style>        
+            .table tr td {
+                background-color: #ddd;
+                width: 50px;
+                height: 50px;
+                line-height: 50px;
+                text-align: center;
+                font-size: 30px;
+                cursor: pointer;
             }
-
-            
-            
         </style>
 
         <!-- 
