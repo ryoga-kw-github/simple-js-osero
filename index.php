@@ -8,8 +8,8 @@
         <script type="text/javascript" src="main.js"></script>
         <style>        
             table {
-                min-width: 30vw;
-                min-height: 30vw;
+                min-width: 45vw;
+                min-height: 45vw;
             }
 
             .table tr td {
@@ -18,7 +18,7 @@
                 height: 12.5%;
                 line-height: 12.5%;
                 text-align: center;
-                font-size: 2.7vw;
+                font-size: 4.1vw;
                 cursor: pointer;
             }
         </style>
