@@ -7,13 +7,18 @@
         <p>Hello,World</p>
         <script type="text/javascript" src="main.js"></script>
         <style>        
+            table {
+                min-width: 30vw;
+                min-height: 30vw;
+            }
+
             .table tr td {
                 background-color: #ddd;
-                width: 50px;
-                height: 50px;
-                line-height: 50px;
+                width: 12.5%;
+                height: 12.5%;
+                line-height: 12.5%;
                 text-align: center;
-                font-size: 30px;
+                font-size: 2.7vw;
                 cursor: pointer;
             }
         </style>
