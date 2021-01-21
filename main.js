@@ -53,4 +53,39 @@ window.onload = function() {
         //--othelloBlack(黒駒●)が代入されていた場合、othelloWhite(白駒○)を代入して、
         //--othelloWhite(白駒○)が代入されていた場合、othelloBlack(黒駒●)を代入する
     }
+
+    changeOthello = (index) => {
+        //両隣とその隣のオセロの色（値）を取得
+        let prevLeftOthello = $tableElements[index - 2].innerHTML;
+        let prevOthello = $tableElements[index - 1].innerHTML;
+        let nextRightOthello = $tableElements[index + 2].innerHTML;
+        let nextOthello = $tableElements[index + 1].innerHTML;
+    
+        //黒
+        //左隣の次のマスの色が置いたオセロと同じ色の場合隣のオセロの色を変える
+        if (prevLeftOthello.match(othelloBlack) && prevOthello.match(othelloWhite)) {
+          let targetIndex = index - 1;
+          putOthello(targetIndex, index);
+        }
+    
+        //右隣の次のマスの色が置いたオセロと同じ色の場合隣のオセロの色を変える
+        if (nextRightOthello.match(othelloBlack) && nextOthello.match(othelloWhite)) {
+          let targetIndex = index + 1;
+          putOthello(targetIndex, index);
+        }
+    
+        //白
+        //左隣の次のマスの色が置いたオセロと同じ色の場合隣のオセロの色を変える
+        if (prevLeftOthello.match(othelloWhite) && prevOthello.match(othelloBlack)) {
+          let targetIndex = index - 1;
+          putOthello(targetIndex, index);
+        }
+    
+        //右隣の次のマスの色が置いたオセロと同じ色の場合隣のオセロの色を変える
+        if (nextRightOthello.match(othelloWhite) && nextOthello.match(othelloBlack)) {
+          let targetIndex = index + 1;
+          putOthello(targetIndex, index);
+        }
+        
+      }
 }
